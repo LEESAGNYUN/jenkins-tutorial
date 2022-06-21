@@ -1,6 +1,6 @@
 apiVersion: apps/v1
 kind: Deployment
-(Secret Text로 하면 Jenkins 버
+
 metadata:
   name: hello-flask
   labels:
